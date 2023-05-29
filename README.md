@@ -34,8 +34,7 @@ By using this code, you are automating your Discord Account. This is against Dis
 - Can be used almost on any platform that supports [Python](https://python.org)
 
 ## Installation
-### · Replit
-#### The code inside the repository was originally made to be hostable on [Replit](https://replit.com), but due to a recent ban on all repositories that are against Discord's ToS, you won't be able to import this repository directly to Replit anymore.
+
 #### Here's a workaround to solve that issue:
 1. Click [here](https://github.com/SealedSaucer/Online-Forever/archive/refs/heads/main.zip) to download the latest version of this code.
 2. Unzip the file
