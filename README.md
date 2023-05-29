@@ -36,7 +36,7 @@ By using this code, you are automating your Discord Account. This is against Dis
 ## Installation
 
 #### Here's a workaround to solve that issue:
-1. Click [here](https://github.com/SealedSaucer/Online-Forever/archive/refs/heads/main.zip) to download the latest version of this code.
+1. Click [here](https://github.com/rinxyzz/OnlineCord/archive/refs/heads/main.zip) to download the latest version of this code.
 2. Unzip the file
 3. Create a new Python repl on [Replit](https://replit.com)
 4. Upload the files into the repl (Just drag and drop it into the files sidebar)
