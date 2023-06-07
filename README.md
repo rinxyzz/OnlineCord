@@ -5,7 +5,7 @@ Make Your Discord Account 24/7 Online Using Python!
 <img src="https://i.imgur.com/N61T21L.png" height="210">
 </div>
 
-The [main.py](https://github.com/rinxyzz/Online-Forever/blob/main/main.py) is the main file. [keep_alive.py](https://github.com/rinxyzz/Online-Forever/blob/main/keep_alive.py) prevents your repl from going to sleep. If you have a replit hacker plan or want to run the script locally, then you can delete [this file](https://github.com/rinxyzz/Online-Forever/blob/main/keep_alive.py) and paste this code inside the [main.py](https://github.com/rinxyzz/Online-Forever/blob/main/main.py) file: 
+The [main.py](https://github.com/rinxyzz/OnlineCord/blob/main/main.py) is the main file. [keep_alive.py](https://github.com/rinxyzz/OnlineCord/blob/main/keep_alive.py) prevents your repl from going to sleep. If you have a replit hacker plan or want to run the script locally, then you can delete [this file](https://github.com/rinxyzz/OnlineCord/blob/main/keep_alive.py) and paste this code inside the [main.py](https://github.com/rinxyzz/OnlineCord/blob/main/main.py) file: 
 
 </br>
 
