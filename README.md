@@ -48,9 +48,7 @@ By using this code, you are automating your Discord Account. This is against Dis
 
 ### · Local Installation
 1. Install [Python](https://python.org/downloads) on your machine (Make sure you add it to [PATH](https://i.imgur.com/Ukl6HdQ.png))
-2. Copy the code below
-<details>
-<summary> Click here to view the code, click again to close it</summary>
-<br>
+2. Copy the code from [file](https://github.com/rinxyzz/OnlineCord/blob/main/main.py)
 
-> Online Forever by Rin4Ever is licensed under Attribution 4.0 International 
+
+> OnlineCord by LateNightReader is licensed under Attribution 4.0 International 
